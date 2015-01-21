@@ -6,7 +6,7 @@
     <!-- From: file:/C:/Users/ALOKNATH/Desktop/IMDP_APP/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="addFavourite">Add Favourites</string>
-    <string name="app_name">Explore CA</string>
+    <string name="app_name">IMDB</string>
     <string name="btn_createfile">Create file</string>
     <string name="btn_readfile">Read file</string>
     <string name="delete">Delete</string>

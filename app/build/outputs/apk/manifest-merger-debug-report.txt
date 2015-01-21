@@ -45,7 +45,7 @@ ADDED from AndroidManifest.xml:15:5
 		ADDED from AndroidManifest.xml:17:9
 	android:theme
 		ADDED from AndroidManifest.xml:19:9
-activity#com.exploreca.tourfinder.MainActivity
+activity#com.exploreca.imdb.MainActivity
 ADDED from AndroidManifest.xml:20:9
 	android:label
 		ADDED from AndroidManifest.xml:22:13
@@ -61,35 +61,35 @@ category#android.intent.category.LAUNCHER
 ADDED from AndroidManifest.xml:26:17
 	android:name
 		ADDED from AndroidManifest.xml:26:27
-activity#com.exploreca.tourfinder.MovieCategory.UpcomingMovies
+activity#com.exploreca.imdb.MovieCategory.UpcomingMovies
 ADDED from AndroidManifest.xml:29:9
 	android:name
 		ADDED from AndroidManifest.xml:29:19
-activity#com.exploreca.tourfinder.MovieCategory.LatestMovies
+activity#com.exploreca.imdb.MovieCategory.LatestMovies
 ADDED from AndroidManifest.xml:30:9
 	android:name
 		ADDED from AndroidManifest.xml:30:19
-activity#com.exploreca.tourfinder.MovieCategory.NowPlayingMovies
+activity#com.exploreca.imdb.MovieCategory.NowPlayingMovies
 ADDED from AndroidManifest.xml:31:9
 	android:name
 		ADDED from AndroidManifest.xml:31:19
-activity#com.exploreca.tourfinder.MovieCategory.PopularMovies
+activity#com.exploreca.imdb.MovieCategory.PopularMovies
 ADDED from AndroidManifest.xml:32:9
 	android:name
 		ADDED from AndroidManifest.xml:32:19
-activity#com.exploreca.tourfinder.MovieCategory.TopRatedMovies
+activity#com.exploreca.imdb.MovieCategory.TopRatedMovies
 ADDED from AndroidManifest.xml:33:9
 	android:name
 		ADDED from AndroidManifest.xml:33:19
-activity#com.exploreca.tourfinder.MovieDetailActivity
+activity#com.exploreca.imdb.MovieDetailActivity
 ADDED from AndroidManifest.xml:34:9
 	android:name
 		ADDED from AndroidManifest.xml:34:19
-activity#com.exploreca.tourfinder.MyMovies
+activity#com.exploreca.imdb.MyMovies
 ADDED from AndroidManifest.xml:35:9
 	android:name
 		ADDED from AndroidManifest.xml:35:19
-activity#com.exploreca.tourfinder.MovieTrailer
+activity#com.exploreca.imdb.MovieTrailer
 ADDED from AndroidManifest.xml:36:9
 	android:name
 		ADDED from AndroidManifest.xml:36:19

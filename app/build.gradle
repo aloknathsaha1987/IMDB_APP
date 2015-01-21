@@ -5,8 +5,8 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "com.exploreca.tourfinder"
-        minSdkVersion 12
+        applicationId "com.exploreca.imdb"
+        minSdkVersion 14
         targetSdkVersion 17
     }
 

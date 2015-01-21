@@ -15,7 +15,7 @@
     <item
         android:id="@+id/menu_now_playing"
         android:orderInCategory="100"
-        android:showAsAction="always"
+        android:showAsAction="never"
         android:title="Now Playing"/>
 
     <item
@@ -33,7 +33,7 @@
     <item
         android:id="@+id/myFavourite"
         android:orderInCategory="100"
-        android:showAsAction="always"
+        android:showAsAction="never"
         android:title="@string/myFavourite"/>
 
 </menu>
