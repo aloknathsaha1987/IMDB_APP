@@ -3,7 +3,7 @@
     package="com.exploreca.imdb"
     android:versionCode="1"
     android:versionName="1.0" >
-
+    https://github.com/aloknathsaha1987/IMDB_APP.git
     <uses-sdk
         android:minSdkVersion="14"
         android:targetSdkVersion="17" />
